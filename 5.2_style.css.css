@@ -16,6 +16,14 @@ hr {
 	max-width: 65px;
 }
 
+.container {
+	margin-right: auto;
+    margin-left: auto;
+    padding-left: 250px;
+    padding-right: 250px;
+
+}
+
 .btn-xl {
 	padding: 1rem 2rem;
 }
@@ -34,8 +42,11 @@ hr {
 
 .btn-primary:hover {
 	background-color: #ee4b08;
-	border-color: transparent;
+	border-color: #ee4b08;
+	border-width: 4px;
+
 }
+	
 
 .buffer {
 	height: 10rem;
