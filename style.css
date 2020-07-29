@@ -19,8 +19,8 @@ hr {
 .container {
 	margin-right: auto;
     margin-left: auto;
-    padding-left: 250px;
-    padding-right: 250px;
+    padding-left: 450px;
+    padding-right: 450px;
 
 }
 
@@ -49,5 +49,5 @@ hr {
 	
 
 .buffer {
-	height: 10rem;
+	height: 15rem;
 }
